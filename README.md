@@ -1,5 +1,4 @@
 # hello-world
-This is a repository test
 
 My name is Mohammed.
 
